@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pancakes175.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Mandy Freundd # add your name
+author: Mandy FFreundd # add your name
 author-img: Mandy-Freund.jpg # add your photo
 about-author: I am PhD student looking at the world. # add description
 twitter: @pancakes175 # add your Twitter handle
